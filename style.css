@@ -1,0 +1,20 @@
+h1{
+    color:brown
+}
+h3{
+    color:tomato;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+*{
+    border:solid
+}
+.header{
+    justify-content: space-evenly;
+}
+.footer{
+    display: table-footer-group;
+    justify-content: space-evenly;
+}
