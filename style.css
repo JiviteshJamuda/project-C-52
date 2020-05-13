@@ -1,8 +1,8 @@
 h1{
-    color:brown
+    color:#772b1d;
 }
 h3{
-    color:tomato;
+    color:#772b1d;
     text-align: center;
 }
 p{
@@ -13,8 +13,13 @@ p{
 }
 .header{
     justify-content: space-evenly;
+    text-align: center;
 }
 .footer{
-    display: table-footer-group;
-    justify-content: space-evenly;
+    display: ruby-text-container;
+    justify-content: space-around;
+    text-align: center;
+}
+body{
+    background-color:#e9d3b4;
 }
